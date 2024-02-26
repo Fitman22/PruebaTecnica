@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f042060128e2f424686268e70ea95fb8, type: 3}
+  m_Name: Potion3
+  m_EditorClassIdentifier: 
+  heal: 4
+  maxHealth: 15
+  price: 6
+  potion: {fileID: -622820751, guid: 40cd02b1371c99f4c8ead411ac58c23f, type: 3}
