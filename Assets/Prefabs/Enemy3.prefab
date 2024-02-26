@@ -50,7 +50,7 @@ MonoBehaviour:
   MaxHealth: 7
   damage: 4
   reward: 4
-  heal: 3
+  heal: 2
   points: {fileID: 7568240243979217770, guid: e6018288c7eae474a944f258ba7cc166, type: 3}
   died:
     m_PersistentCalls:

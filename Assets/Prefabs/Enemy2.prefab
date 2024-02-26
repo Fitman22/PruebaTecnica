@@ -48,7 +48,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MaxHealth: 4
-  damage: 4
+  damage: 3
   reward: 5
   heal: 2
   points: {fileID: 7568240243979217770, guid: e6018288c7eae474a944f258ba7cc166, type: 3}
